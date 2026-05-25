@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey"],
+      "responses": ["Hello!", "Hi there!"]
+    },
+    {
+      "tag": "refund",
+      "patterns": ["Refund", "Money back"],
+      "responses": ["Refund takes 5 days"]
+    }
+  ]
+}
